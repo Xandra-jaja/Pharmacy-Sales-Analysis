@@ -45,6 +45,12 @@ The main objectives of this project were to:
 
 ## Dashboard Preview
 
+### Overview Page
+![Pharmacy Sales Overview](pharmacy%20sales%20overview.png)
+
+### Details Page
+![Pharmacy Sales Details](pharmacy%20sales%20details.png)
+
 The Power BI dashboard provides a visual overview of pharmacy sales performance, helping users explore important business metrics and identify sales trends.
 
 ## Key Insights and Recommendations
